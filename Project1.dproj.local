@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.296,C:\Users\Iana\Desktop\del\Project1.dproj=C:\Users\Iana\Desktop\del\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Users\Iana\Desktop\del\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\Iana\Desktop\del\HelloWorld.pas=C:\Users\Iana\Desktop\del\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\Iana\Desktop\del\HelloWorld.dfm=C:\Users\Iana\Desktop\del\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
